@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Wet Tech Dreams ]]></title>
         <description><![CDATA[Wet Tech Dreams ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wet-tech-dreams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 07:29:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 23 Jun 2016 07:30:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wet-tech-dreams/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69e183ac-b1a9-4a69-94cd-4403dbcb5aa2.jpg">]]></description>
+            <link>https://thegrid.ai/wet-tech-dreams/9291af23-8e1e-43ae-b217-e98ad24cd4e1/index.html</link>
+            <guid isPermaLink="false">9291af23-8e1e-43ae-b217-e98ad24cd4e1</guid>
+            <pubDate>Thu, 23 Jun 2016 07:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dc8f07b-0bbc-4a73-9945-f275558dbb1b.jpg">]]></description>
+            <link>https://thegrid.ai/wet-tech-dreams/cdae6c3f-0af6-4de4-b193-d7f3d1bae87d/index.html</link>
+            <guid isPermaLink="false">cdae6c3f-0af6-4de4-b193-d7f3d1bae87d</guid>
+            <pubDate>Thu, 23 Jun 2016 07:30:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/083eb01d-fa5a-49e2-93d8-074a002d1775.jpg">]]></description>
